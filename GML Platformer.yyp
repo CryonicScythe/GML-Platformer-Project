@@ -3,6 +3,8 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"obj_CyportatoIdle","path":"objects/obj_CyportatoIdle/obj_CyportatoIdle.yy",},"order":0,},
+    {"id":{"name":"obj_InvisibleWall","path":"objects/obj_InvisibleWall/obj_InvisibleWall.yy",},"order":1,},
     {"id":{"name":"spr_InvisibleWall","path":"sprites/spr_InvisibleWall/spr_InvisibleWall.yy",},"order":3,},
     {"id":{"name":"spr_CyportatoIdle","path":"sprites/spr_CyportatoIdle/spr_CyportatoIdle.yy",},"order":1,},
     {"id":{"name":"spr_CyportatoJump","path":"sprites/spr_CyportatoJump/spr_CyportatoJump.yy",},"order":2,},
