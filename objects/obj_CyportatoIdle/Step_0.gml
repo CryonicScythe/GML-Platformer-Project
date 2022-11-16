@@ -19,7 +19,7 @@ if (place_meeting(x+hsp,y,spr_InvisibleWall))
 	{
 		x = x + sign(hsp);
 	}
-	hsp = 0
+	hsp = 0;
 }
 x = x + hsp;
 
@@ -30,6 +30,6 @@ if (place_meeting(x,y+vsp,spr_InvisibleWall))
 	{
 		y = y + sign(vsp);
 	}
-	
+	vsp = 0;
 }
-y = y + hsp;
+y = y + vsp;
