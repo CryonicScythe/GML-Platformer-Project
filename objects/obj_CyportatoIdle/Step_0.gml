@@ -59,3 +59,5 @@ else
 		sprite_index = spr_CyportatoWalk;
 	}
 }
+
+if (hsp != 0) image_xscale = sign(hsp);
