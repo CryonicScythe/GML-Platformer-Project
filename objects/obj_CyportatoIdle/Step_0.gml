@@ -47,3 +47,15 @@ if (!place_meeting(x,y+1,obj_InvisibleWall))
 	image_speed = 0;
 	if (vsp > 0) image_index = 4; else image_index = 2;
 }
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_CyportatoIdle;
+	}
+	else
+	{
+		sprite_index = spr_CyportatoWalk;
+	}
+}
