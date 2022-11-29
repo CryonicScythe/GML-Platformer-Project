@@ -38,3 +38,12 @@ if (place_meeting(x,y+vsp,obj_InvisibleWall))
 	vsp = 0;
 }
 y = y + vsp;
+
+//Animation
+
+if (!place_meeting(x,y+1,obj_InvisibleWall))
+{
+	sprite_index = spr_CyportatoJump;
+	image_speed = 0;
+	if (vsp > 0) image_index = 4; else image_index = 2;
+}

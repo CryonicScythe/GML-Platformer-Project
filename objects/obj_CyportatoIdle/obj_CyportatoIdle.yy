@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_CyportatoIdle",
+    "path": "sprites/spr_CyportatoIdle/spr_CyportatoIdle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
