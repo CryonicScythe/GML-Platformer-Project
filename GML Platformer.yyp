@@ -15,6 +15,7 @@
     {"id":{"name":"spr_CyportatoWalk","path":"sprites/spr_CyportatoWalk/spr_CyportatoWalk.yy",},"order":0,},
     {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},"order":9,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":7,},
+    {"id":{"name":"spr_confetti","path":"sprites/spr_confetti/spr_confetti.yy",},"order":10,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":4,},
     {"id":{"name":"ts_wall2","path":"tilesets/ts_wall2/ts_wall2.yy",},"order":1,},
     {"id":{"name":"ts_wall","path":"tilesets/ts_wall/ts_wall.yy",},"order":0,},
