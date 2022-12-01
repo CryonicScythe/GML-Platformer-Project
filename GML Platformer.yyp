@@ -10,10 +10,13 @@
     {"id":{"name":"spr_CyportatoIdle","path":"sprites/spr_CyportatoIdle/spr_CyportatoIdle.yy",},"order":1,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":8,},
     {"id":{"name":"spr_CyportatoJump","path":"sprites/spr_CyportatoJump/spr_CyportatoJump.yy",},"order":2,},
+    {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},"order":1,},
     {"id":{"name":"spr_dungeonwall","path":"sprites/spr_dungeonwall/spr_dungeonwall.yy",},"order":6,},
     {"id":{"name":"spr_CyportatoWalk","path":"sprites/spr_CyportatoWalk/spr_CyportatoWalk.yy",},"order":0,},
+    {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},"order":9,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":7,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":4,},
+    {"id":{"name":"ts_wall2","path":"tilesets/ts_wall2/ts_wall2.yy",},"order":1,},
     {"id":{"name":"ts_wall","path":"tilesets/ts_wall/ts_wall.yy",},"order":0,},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":0,},
   ],
@@ -32,6 +35,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

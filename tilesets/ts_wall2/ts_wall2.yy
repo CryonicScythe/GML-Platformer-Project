@@ -1,10 +1,10 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "ts_wall",
+  "name": "ts_wall2",
   "spriteId": {
-    "name": "spr_wall2",
-    "path": "sprites/spr_wall2/spr_wall2.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "tileWidth": 128,
   "tileHeight": 128,
